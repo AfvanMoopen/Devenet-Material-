@@ -1,2 +1,2 @@
-# DEVASC_200-901_STUDY
+# DEVASC_STUDY
 Devnet Associate Study Material
